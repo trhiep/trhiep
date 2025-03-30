@@ -32,7 +32,8 @@
 
 ## 🤝 Connect with Me
 
-- 🌐 [Website](https://github.com/trhiep/bams-api](https://tranhiep.id.vn/))
+- 🌐 <a href="https://tranhiep.id.vn/">Website</a>
+
 
 🚀 Let's build something amazing together!
 

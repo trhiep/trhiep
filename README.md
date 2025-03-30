@@ -32,7 +32,7 @@
 
 ## 🤝 Connect with Me
 
-- 🌐 <a href="https://tranhiep.id.vn/">Website</a>
+- 🌐 <a href="https://tranhiep.id.vn/" onclick="window.open(this.href); return false;">Website</a>
 
 
 🚀 Let's build something amazing together!

@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Tran Hiep 👋
 
-<!--
-**trhiep/trhiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a student at **FPT University**
+- 🔭 I’m currently learning **.NET 8 Backend Development**
+- 🌱 I’m exploring **Microservices, Next.js, and AI Integration**
+- 👯 I’m looking to collaborate on **backend projects**
+- 💬 Ask me about **.NET 8, C#, RESTful APIs, and SQL databases**
+- 📫 How to reach me: **trhiwp@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Backend:** .NET 8, ASP.NET Core, Entity Framework, Java Spring Boot
+- **Frontend (Basic):** HTML, CSS, JS, React, Next.js
+- **Databases:** SQL Server, MySQL
+- **DevOps:** Docker, CI/CD, Github Actions
+- **Tools:** Git, Postman, Swagger
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trhiep&show_icons=true&theme=radical)
+
+## 📌 Featured Projects
+
+- ⛹️‍♂️ [Basketball Academy Management System](https://github.com/trhiep/bams-api) - RESTful API project built with .NET 8
+- 😋 [Hôm Nay Ăn Gì](https://github.com/trhiep/hom-nay-an-gi) - .NET RESTful API and .NET Razor Pages projects built with .NET 6
+- 🏫 [Online Learning System](https://github.com/trhiep/online-learning-system) - .NET Razor Pages project built with .NET 6
+- 🔑 [License Shop](https://github.com/trhiep/License-Key-Shop) - .NET MVC project built with .NET 6
+- 👤 [Account Shop](https://github.com/trhiep/AccountShop) - Java JSP Servlet project
+- 🔒 [Smart Lock](https://github.com/trhiep/SmartLock) - IOT project using password and RFID to unlock a door
+
+## 🤝 Connect with Me
+
+- 🌐 [Website](https://github.com/trhiep/bams-api](https://tranhiep.id.vn/))
+
+🚀 Let's build something amazing together!
+
